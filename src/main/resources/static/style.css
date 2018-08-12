@@ -1,0 +1,21 @@
+body {
+	background-color: aqua;
+	margin: auto;
+	text-align: center;
+}
+
+.jumbotron {
+	width: 100%;
+	height: 100%
+	margin: auto;
+}
+
+.form {
+	margin: auto;
+	text-align: center;
+}
+
+.dogForm {
+	margin: auto;
+	text-align: center;
+}
